@@ -7,6 +7,7 @@ A lightweight GUI based on Windows VBS script that uses yt-dlp to download video
 * Video or Audio download.
 * Selectable WEBM (default, fast) , MP3 (Converted, bit slow) options for audio.
 * Selectable quality (Best, Worst, 144p, 240p, 360p, 480p, 720p, 1080p, 1440p and 2160p)
+* Supports cookies (place cookies.txt inside the same folder)
 
 ### Requirements
 * Functional Brain
