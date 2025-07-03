@@ -1,4 +1,4 @@
-# ytdlp-downloader-windows (GUI, Kind of)
+# YT-dlp Downloader for Windows (GUI, Kind of)
 A lightweight GUI based on Windows VBS script that uses yt-dlp to download videos or playlists from YouTube and other supported platforms, with selectable resolution.
 
 ### Features
