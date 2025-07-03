@@ -9,6 +9,7 @@ A lightweight GUI based on Windows VBS script that uses yt-dlp to download video
 * Selectable WEBM (default, fast) , MP3 (Converted, bit slow) options for audio.
 * Selectable quality (Best, Worst, 144p, 240p, 360p, 480p, 720p, 1080p, 1440p and 2160p)
 * Supports cookies (place cookies.txt inside the same folder)
+* Subtitles (Auto-generated and Manual both, selective as well)
 
 ### Requirements
 * Functional Brain
@@ -25,3 +26,4 @@ A lightweight GUI based on Windows VBS script that uses yt-dlp to download video
 
 ### NOTE:
 * You gotta use ffmpeg (download ffmpeg and put "ffmpeg/bin" folder path into your Enviromental Values Path) to get both video and audio merged. Else you'll get separate audio and video file.
+* If the subtitles aren't found, it'll just download the video.
