@@ -10,7 +10,7 @@ A lightweight GUI based on Windows VBS script that uses yt-dlp to download video
 
 ### Requirements
 * Functional Brain
-* [yt-dlp](https://github.com/yt-dlp/yt-dlp) (download zip from releases)
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 * [ffmpeg](https://ffmpeg.org/download.html) for conversion ofcourse.
 
 ### How to use:
