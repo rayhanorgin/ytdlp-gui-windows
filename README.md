@@ -24,4 +24,4 @@ A lightweight GUI based on Windows VBS script that uses yt-dlp to download video
 
 
 ### NOTE:
-* You gotta use ffmepg (download ffmpeg and put "ffmpeg/bin" folder path into your Enviromental Values Path) to get both video and audio merged. Else you'll get separate audio and video file.
+* You gotta use ffmpeg (download ffmpeg and put "ffmpeg/bin" folder path into your Enviromental Values Path) to get both video and audio merged. Else you'll get separate audio and video file.
