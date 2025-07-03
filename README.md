@@ -2,7 +2,7 @@
 A lightweight GUI based on Windows VBS script that uses yt-dlp to download videos or playlists from YouTube and other supported platforms, with selectable resolution.
 
 ### Features
-* Can download single or an entire playlist.
+* Can download a single video or an entire playlist.
 * Selectable videos from playlist.
 * Video or Audio download.
 * Selectable WEBM (default, fast) , MP3 (Converted, bit slow) options for audio.
